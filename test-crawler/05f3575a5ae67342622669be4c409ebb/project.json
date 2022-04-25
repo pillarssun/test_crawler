@@ -1,0 +1,15 @@
+{
+    "id": "05f3575a5ae67342622669be4c409ebb",
+    "name": "Test_crawler_baidu",
+    "crawlerInput": {
+        "url": "https://www.baidu.com/",
+        "browser": "chrome-puppeteer",
+        "method": "spiderbot",
+        "limit": 10,
+        "autopin": true,
+        "viewport": {
+            "width": 800,
+            "height": 600
+        }
+    }
+}
