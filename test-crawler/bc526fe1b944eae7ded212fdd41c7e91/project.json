@@ -1,0 +1,14 @@
+{
+    "id": "bc526fe1b944eae7ded212fdd41c7e91",
+    "name": "Test_crawler_airtest",
+    "crawlerInput": {
+        "url": "https://airtest.netease.com/",
+        "browser": "chrome-puppeteer",
+        "method": "spiderbot",
+        "limit": 20,
+        "viewport": {
+            "width": 800,
+            "height": 600
+        }
+    }
+}
