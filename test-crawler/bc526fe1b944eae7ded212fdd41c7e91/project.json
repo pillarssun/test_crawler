@@ -9,6 +9,7 @@
         "viewport": {
             "width": 800,
             "height": 600
-        }
+        },
+        "autopin": true
     }
 }
